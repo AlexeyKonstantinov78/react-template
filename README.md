@@ -31,3 +31,8 @@
 [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)<br/>
 [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)<br/>
 [VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
+
+
+Справочник по оформлению MARKDOWN
+
+https://gist.github.com/AlexeyKonstantinov78/1ac24aa80cbe2edd84cfae916cbffb23
